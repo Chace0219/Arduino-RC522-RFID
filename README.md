@@ -2,6 +2,7 @@
 Arduino based water supplier firmware
 
 # Components
+- Arduino UNO R3 
 - Nextion HMI enhanced 5.0Inch
 - RC-522 RFID Integrator
 - Relay module
