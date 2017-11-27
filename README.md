@@ -9,6 +9,7 @@ Arduino based water supplier firmware
 
 # Logic
 Used for water supplier example project
+
     water amount and serving log will be stored on card.
     UI interface using Nextion
     Valve control using relay
